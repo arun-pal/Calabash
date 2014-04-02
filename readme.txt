@@ -9,7 +9,7 @@ Calabash Installation Steps:
 4> Install calabash:
    C:\Users\xxx>gem install calabash-android
    C:\Users\xxx> gem install cucumber 
-   C:\Users\SONY> calabash-android gen
+   C:\Users\xxx> calabash-android gen
    
 It will create a Cucumber skeleton in the current folder like this:
 
